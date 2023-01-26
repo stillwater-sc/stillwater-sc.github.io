@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://stillwater-sc.github.io/domain-flow/blas/</loc>
+    <lastmod>2017-02-15T07:54:08-05:00</lastmod>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/linearsolvers/</loc>
+    <lastmod>2017-02-15T07:54:08-05:00</lastmod>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/factorization/</loc>
+    <lastmod>2017-02-15T07:54:08-05:00</lastmod>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/matrixkernels/</loc>
+    <lastmod>2017-02-15T07:54:08-05:00</lastmod>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/design/</loc>
+    <lastmod>2017-02-15T07:42:59-05:00</lastmod>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/introduction/</loc>
+    <lastmod>2017-02-15T06:49:44-05:00</lastmod>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/categories/</loc>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/</loc>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/series/</loc>
+  </url><url>
+    <loc>https://stillwater-sc.github.io/domain-flow/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,75 @@
+/* background behind the logo */
+#header-wrapper {
+    background: #322A38;
+    color: #fff;
+    text-align: center;
+    border-bottom: 4px solid #9c6fb6;
+    padding: 1rem;
+}
+#header {
+    background: #322A38;
+    border-color: #101010;
+}
+
+/* background color of the menu */
+#sidebar {
+    background-color: #322A38;
+}
+
+/* background color of the menu, when clicked */
+#sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
+    background-color: #322A38;
+}
+
+#footer p {
+    text-align: right;
+}
+
+/* color of all links, including arrows to get to previous and next pages */
+a {
+    color: #00bcd4;
+}
+a:hover {
+    color: #00a5d4;
+}
+
+code.has-jax {font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+
+#c {
+    position: fixed;
+    left: 0px; top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    z-index: -1;
+}
+
+
+#spacetime_view {
+    width: 6in;
+    height: 6in;
+    margin: auto;
+}
+
+#index_space_view {
+    width: 6in;
+    height: 6in;
+    margin: auto;
+}
+
+#freeschedule_animation {
+    width: 6in;
+    height: 6in;
+    margin: auto;
+}
+
+#linearschedule_animation {
+    width: 6in;
+    height: 6in;
+    margin: auto;
+}
